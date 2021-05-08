@@ -25,6 +25,24 @@ li {
     font-size: 25px;
 }
 
+
+.lista {
+    text-decoration: none;
+}
+
+.lista:hover {
+    color: red;
+}
+
+.lista:visited {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+.lista:hover:visited {
+    color: red;
+}
+
 img {
     border-radius: 100%;
     display: block;
