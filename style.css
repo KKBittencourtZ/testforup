@@ -9,6 +9,10 @@ h1 {
     font-family: Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
+.paragrafo {
+    text-align: center;
+}
+
 p {
     text-align: justify;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
